@@ -9,6 +9,14 @@ BlackCut presenta los servicios de una barbería mediante una interfaz moderna, 
 
 🌐 [Visitar BLACKCUT Barbería](https://nachofuentesinostroza.github.io/barberia/)
 
+### Versión de escritorio
+
+![BlackCut - Vista de escritorio](capturas/escritorio.png)
+
+### Versión móvil
+
+![BlackCut - Vista móvil](capturas/movil.png)
+
 ## Tecnologías utilizadas
 
 - HTML5: estructura semántica del sitio.
