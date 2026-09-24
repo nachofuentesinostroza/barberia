@@ -7,7 +7,7 @@ BlackCut presenta los servicios de una barbería mediante una interfaz moderna, 
 
 ## Vista previa
 
-Sitio web: pendiente de publicación.
+🌐 [Visitar BLACKCUT Barbería](https://nachofuentesinostroza.github.io/barberia/)
 
 ## Tecnologías utilizadas
 
@@ -37,7 +37,6 @@ barberia/
 ├── index.html
 ├── style.css
 ├── script.js
-├── imagenes/
 └── README.md
 ```
 
